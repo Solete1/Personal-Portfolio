@@ -102,6 +102,7 @@
             font-size: 1.8rem;
             font-weight: bold;
             color: rgb(255, 204, 0);
+            margin-left: 10px;
         }
         
         nav ul {
@@ -115,6 +116,8 @@
         nav ul li a {
             font-weight: 500;
             transition: var(--transition);
+            margin-left: 10px;
+            margin-right: 10px;
         }
         
         nav ul li a:hover {
